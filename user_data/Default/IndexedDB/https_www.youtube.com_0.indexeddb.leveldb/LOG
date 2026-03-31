@@ -1,0 +1,18 @@
+2026/03/30-23:31:19.321 5558 Reusing MANIFEST C:\Users\admin\Desktop\Adda\adda-booking-bot\user_data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/30-23:31:19.321 5558 Recovering log #3
+2026/03/30-23:31:19.322 5558 Reusing old log C:\Users\admin\Desktop\Adda\adda-booking-bot\user_data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2026/03/30-23:31:26.034 afc Level-0 table #5: started
+2026/03/30-23:31:26.038 afc Level-0 table #5: 74656 bytes OK
+2026/03/30-23:31:26.040 afc Delete type=0 #3
+2026/03/30-23:31:26.041 5558 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/30-23:31:26.045 afc Level-0 table #7: started
+2026/03/30-23:31:26.047 afc Level-0 table #7: 11161 bytes OK
+2026/03/30-23:31:26.049 afc Delete type=0 #4
+2026/03/30-23:31:26.050 5558 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/30-23:31:26.050 5558 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00 \x84e\xfe\xd3yB\x00\x03\x00\x00\x00\x00\x00\x00\x1c@' @ 746 : 1
+2026/03/30-23:31:26.050 5558 Compacting 1@1 + 1@2 files
+2026/03/30-23:31:26.053 5558 Generated table #8@1: 68 keys, 12543 bytes
+2026/03/30-23:31:26.053 5558 Compacted 1@1 + 1@2 files => 12543 bytes
+2026/03/30-23:31:26.055 5558 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/30-23:31:26.055 5558 Delete type=2 #7
+2026/03/30-23:31:26.056 5558 Manual compaction at level-1 from '\x00\x04\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00 \x84e\xfe\xd3yB\x00\x03\x00\x00\x00\x00\x00\x00\x1c@' @ 746 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
